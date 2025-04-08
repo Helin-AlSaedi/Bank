@@ -43,6 +43,7 @@ export default function Register() {
             >
               Skapa användare
             </button>
+            <p>hej</p>
           </form>
         </div>
       </div>
