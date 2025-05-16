@@ -1,4 +1,5 @@
 const BASE_URL = "http://13.51.163.15:3001";
+// const BASE_URL = "http://localhost:3000";
 
 export async function loginUser(username, password) {
   const response = await fetch(`${BASE_URL}/sessions`, {
